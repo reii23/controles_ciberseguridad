@@ -1,0 +1,4 @@
+- Clase 1: NIST
+- Clase 2: COBIT 2019
+- Clase 3: ISO 27002
+- Clase 4: CIS Controls
